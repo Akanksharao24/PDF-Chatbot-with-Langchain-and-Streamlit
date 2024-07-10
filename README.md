@@ -83,8 +83,6 @@ To better understand the technologies used in this project, here are some helpfu
 ## References
 The following papers and articles provide a deeper insight into the methodologies and technologies utilized in this project:
 
-- [FAISS: A library for efficient similarity search and clustering of dense vectors](https://arxiv.org/abs/1702.08734)
-- [Transformers for Natural Language Processing](https://arxiv.org/abs/1706.03762)
-- [Sentence Transformers: Multilingual Sentence, Paragraph, and Image Embeddings](https://arxiv.org/abs/1908.10084)
+- [streamlit]([https://arxiv.org/abs/1702.08734](https://github.com/mistralai/cookbook/tree/main/third_party/streamlit))
 
 By following this guide, you'll be able to set up and run a PDF chatbot capable of answering questions about your documents. Enjoy exploring the capabilities of conversational AI!
