@@ -77,7 +77,8 @@ To better understand the technologies used in this project, here are some helpfu
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [LangChain Documentation](https://langchain.readthedocs.io/)
 - [FAISS Documentation](https://faiss.ai/)
-- [Hugging Face Embeddings](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+- [Hugging Face Embeddings](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/tree/main)
+- [other Documents](https://www.irjmets.com/uploadedfiles/paper//issue_7_july_2023/43587/final/fin_irjmets1690455507.pdf) 
 
 ## References
 The following papers and articles provide a deeper insight into the methodologies and technologies utilized in this project:
